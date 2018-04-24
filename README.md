@@ -4,16 +4,16 @@ This system has been developed in .Net framework and its source codes will be pu
 
 Here there is a compiled version of the system for creating a sentiment lexicon for German. The detail of the system will be published soon.
 
-You can find the pre-constructed lexicons in the <./lexicons> directory.
+You can find the pre-constructed lexicons in the <./lexicons> directory for German and Turkish.
 
 # Usage
 All system requirements are available in <./data> directory. Please see the README.md in this directory.  
 
 Go to the <bin/Release> directory and Run the <MultiLexConstruction.exe> file as below:
-It has 2 parameters: (1)target language id (e.g. <de> for German) (2) an integer indicating the vector reduction size. 
+It has 2 parameters: (1)target language id (e.g. 'de' for German) (2) an integer indicating the vector reduction size. 
 
 ```
 MultiLexConstruction de 10
 ```
-The lexicons will be created in the <data/output> directory. 
+The lexicons will be created in the <data/output> directory.
  
