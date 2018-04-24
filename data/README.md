@@ -25,5 +25,5 @@ This folder is used to store the resources produced by the system. As the indexi
 
 ## 3. output
 
-The target sentiment lexicons are generated in the <output> folder. For each target language 4 types of lexicons are generated based on methods used to conflate the polarities of the mapped synsets.
+The target sentiment lexicons are generated in the <output> folder. For each target language 4 types of lexicons are generated based on the methods employed in conflating the polarities of the mapped synsets.
 
